@@ -1,0 +1,21 @@
+﻿  contactHelpers.c
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(208,34): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(210,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(213,39): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(215,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(218,53): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(220,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(223,66): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(225,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(228,66): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(230,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(233,55): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(235,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(238,58): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(240,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(243,58): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(245,1): error C2059: syntax error: '}'
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(248,57): error C2449: found '{' at file scope (missing function header?)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS3\contactHelpers.c(250,1): error C2059: syntax error: '}'
+  contacts.c
+  Generating Code...

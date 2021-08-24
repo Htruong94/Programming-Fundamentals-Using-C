@@ -1,0 +1,9 @@
+﻿  contactHelpers.c
+  contacts.c
+  Generating Code...
+C:\Users\HungD\Desktop\School\IPC144\A2\MS1\contactHelpers.c(50): warning C4716: 'getInt': must return a value
+C:\Users\HungD\Desktop\School\IPC144\A2\MS1\contactHelpers.c(56): warning C4716: 'getIntInRange': must return a value
+C:\Users\HungD\Desktop\School\IPC144\A2\MS1\contactHelpers.c(62): warning C4716: 'yes': must return a value
+C:\Users\HungD\Desktop\School\IPC144\A2\MS1\contactHelpers.c(68): warning C4716: 'menu': must return a value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\HungD\Desktop\School\IPC144\A2\MS1\Debug\A2MS1.exe : fatal error LNK1120: 1 unresolved externals

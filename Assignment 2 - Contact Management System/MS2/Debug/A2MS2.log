@@ -1,0 +1,3 @@
+﻿  contactHelpers.c
+C:\Users\HungD\Desktop\School\IPC144\A2\MS2\contactHelpers.c(119,26): warning C4087: 'getInt': declared with 'void' parameter list
+  A2MS2.vcxproj -> C:\Users\HungD\Desktop\School\IPC144\A2\MS2\Debug\A2MS2.exe

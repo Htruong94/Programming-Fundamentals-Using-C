@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Date:           April 2, 2020 
+//==============================================
+// Assignment:     2
+// Milestone:      4
+//==============================================
+
+During the time I spent completing assignment 2, milestone 4, I have learnt how to apply strings into functions which allows for a better search mechanic of strings in the memory and also the manipulation of strings such as strtol converting the string into an integer and moving non-numeric values into another variable and strlen which shows the contents of the string. Aside from the strings, I have also learnt methods to better streamline the code for readability and how important functions can be when they are tasked to doing one mechanic. So, if one function contains a bug, fixing that one function would drastically reduce the number of bugs that arise from other functions using that bugged function. Thus, cutting down on time searching for similar functions using recycled code and allows you to go down the tree of functions until you find the problem.
+
+The two functions, "findContactIndex" and "getTenDigitPhone", benefitted the source code with respect to overall maintenance and readability as they are two functions that are more complex than the usual functions but are used in many aspects of the code. If these functions did not exist, they would have been repeated in the source code consistently which drastically reduce the readability of the code. Furthermore, as these functions are placed separate, we can work on the isolated function and fix any problems that could arise from it such as in "getTenDigitPhone", converting the code to only accept numbers. As we just need to fix the isolated function, there is no need to go to other functions to repeat the process constantly. Thus, benefitted the source code in overall maintenance and readability through isolation but other functions largely dependent on the two.
+
+I would like this assignment to include the functionality of load/save contact information from/to a text data file because as this program allows for contact information storing, it could be used for many other companies that do not need the currently stored files. So, by loading certain contact information from their specific text data file would allow them to access only their relevant contacts. Another benefit of having this functionality is that it allows for better migration of data if the company decides to upgrade to a different program which would allow for an easier time migrating data.

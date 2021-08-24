@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Date:           March 28, 2020       
+//==============================================
+// Assignment:     2
+// Milestone:      2
+//==============================================
+
+In assignment 2, milestone 1 and 2, I have learnt how to use functions in different files and how it is called into a prototype in a different file which lets other file call by just having one prototype file. In relation to the past milestone, these functions are simpler in which focuses on one task which has taught me how to separate functions to its core task which lets me streamline other functions and work on sections without going through the whole project for problems from redundancy. 
+
+The term "function" is a modular part of a code that performs one core task. This is needed for any language as it allows for different parts of the code that requires the same coding structure to perform a task and obtain information through an input and output relation. As these codes becomes more complex and larger, redundancy would occur so having functions allows to streamline for a cleaner code rather than typing the code of the function multiple times for multiple types of variables. Different variables can be pushed into these functions and returns the desired result.
+
+"Helper" functions are in a different module because these are functions that are used constantly in a code so having them in a different module would allow for easier access to cleaning up any errors that may occur from the function called into the source code. As such, separates the redundant functions with the main functions in the other module. If these were to be included into the "contacts" module, the code would become larger than necessary and when looking for these functions could cause them to be lost within the other functions. Thus, they should be in different modules for clarity.
