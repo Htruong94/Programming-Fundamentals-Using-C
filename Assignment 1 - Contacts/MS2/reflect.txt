@@ -1,0 +1,14 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Date:           March 5, 2020
+//==============================================
+// Assignment:     1
+// Milestone:      2 [Reflection]
+//==============================================
+
+In the first assignment milestone 1-2, I have learned how to utilize a header file that contains the structs used in the code rather than having the structs in the source code. This allows for better organization on the overall program as changes in the struct can be easily reached by going to the header file than searching it within the source code. I also learnt the different ways to scan for char variables as it requires different types of calling to allow for different elements to be inputted such as space bars which does not get accepted in the regular %s scan. These two milestones were an accumulation of everything we have learnt from previous workshops such as loops and structures, thus, reinforces our understanding of what we learnt. 
+A more efficient way to add required information to each data field is to separate each section into different functions as this separates each required information into its own section for easier access rather than going through the main code from line to line. For example, if there is a change in address, we can just call for an "Address" function and access the information there rather than having all the information shown at once. 
+The difference between a C string array and a primitive character array is that a C string can write a statement in a weak quotation and would be store in the C string. If you use a primitive character array, you would have to input each character one by one using strong quotations on each character. If you were to use a printf specifier “%s” onto the primitive character array, it would print the content of the array from left element to right element. If there is no null operator \0 specified in the end of the array, the array would be printed twice. Therefore, a null operator is required to be specified in the end primitive character array while a C string array does not need a null operator in the end.

@@ -1,0 +1,5 @@
+﻿  a1ms2.c
+C:\Users\HungD\Desktop\School\IPC144\Ass1\MS2\a1ms2.c(163,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\HungD\Desktop\School\IPC144\Ass1\MS2\a1ms2.c(164,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\HungD\Desktop\School\IPC144\Ass1\MS2\a1ms2.c(165,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  A1MS2.vcxproj -> C:\Users\HungD\Desktop\School\IPC144\Ass1\MS2\Debug\A1MS2.exe

@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Date:           March 12, 2020
+//==============================================
+// Assignment:     1
+// Milestone:      4
+//==============================================
+
+After the completion of assignment 1, milestone 3 and 4, I have learnt how to convert a code from a large singular function code from the previous milestones into modular code that contains multiple shorter functions. As these are simpler functions compared to the previous function, they are isolated into their own unique and singular function. Thus, letting me learn how to use modular coding as well as practice in a simpler and cleaner way of coding in C. With coding with functions, I also learn how to use prototype functions to declare functions that will be used later and how to properly write function codes and calling them into the main function of the source code. 
+
+In this assignment, we were told to create a struct, Contact, that would hold the other structs declared before as data members. I believe this was used to let the user just declare the Contact struct inside the main function so that each other struct declared in the header file can be used in the main function without actually declaring in the main function. Thus, letting you use the other structs without actually declaring them in the function which would cut down the amount of lines written in the main code. 
+
+Using the method of having each struct inside another struct is also could be considered as a poor design in terms of passing a pointer into this struct in arguments in function getName, getAddress, and getNumbers. I believe that when we input data to the code, the data would first go to the Contact struct which would then be pass into the according struct that the code is pointed to. Thus creating, making the data pointed twice instead of once seen in milestone 2. This would also produce more memory allocated in the code as this struct would have to give memory to the address of each struct so essentially taking more memory that is needed than just calling each struct without the need of the Contact struct. Therefore, I believe this is poor design due to information being pass twice and taking more memory when just calling each struct is sufficient in doing these tasks without passing twice and not producing any additional memory.
