@@ -1,0 +1,3 @@
+Name: Hung Truong  || Student Number: 147779193 || Email: htruong19@myseneca.ca
+
+From completing this workshop, I have learnt how to produce a simple code using the printf function from the library stdio.h. I also learnt how to properly utilizing the single-line and multi-line comments to input my reasoning of why I used the statement and document the code. I also learnt how to transfer files between the computer and matrix using the WinSCP program so the code I have wrote on my computer could appear on Matrix. Finally, I have learnt how to compile the code transferred onto Matrix and run the code to show the desired output of the printed statement.
