@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Workshop:       5 (at-home) Reflection
+//==============================================
+
+In this workshop, I have learnt how to properly format a struct function and how to utilize the struct function into the code. I have also learnt how the switch function works while being under a loop so the user can have choices between a menu item listed while having a default case for situations where an input does not match any of the cases listed. In extension to this, I was able to learn how to expand in the switch function by adding more cases and create logical coding within each case that I have learnt in past workshops. Finally, I have learned how to manipulate the data within an array while not changing the positions of elements within.  
+
+The advantages of using an array of structures compared to the parallel arrays in terms of related data is that the number of variables needed to be called is minimized as each array has variables that has been called already within the structure. This allows each structure array to be called once rather than calling many arrays for each variable that would be needed to be an equivalent code. For example, this workshop has 3 variables within the structure. To make an equivalent code to satisfy the 3-variable structure, you would need to create an array for each variable in the structure. With these arrays, the code could be significantly expanded as you require to call each of the codes rather than just calling the arrays with the dot signifier. This can become worse if there are more variables within the structure so having a struct function is useful to relate similar data rather than using many parallel arrays.
+
+Rather than declaring struct within the .c (source) file, these struct can also be declared in a separate .h (header) file. This would be useful to organize variables in different files as it would keep the overall code cleaner and easier to access. This would be more important when working with more struct and more variables within the struct so you can locate these variables easily rather than just keeping it within the .c file.

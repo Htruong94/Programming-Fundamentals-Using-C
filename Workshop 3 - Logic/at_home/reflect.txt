@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Workshop:       3 (at-home)
+//==============================================
+
+In this workshop, I have learned how to use a main define so that the variable is already declared and valued before I have started writing the code. This value can be changed as well in the code so it is useful to change this value as it is located in the beginning so for long codes, it is not hard to find. I have also learned how to use multiple types of loops in the code and properly learn the situations they are used in. For example, the for loop is good to do a certain amount of iteration so the loop can go for a desired finite amount. Meanwhile while loop is useful to do an infinite amount of iterations until its condition is met so knowing the uses of these different loop statements will provide the desired results.
+
+If I have used pseudo code before coding, I could have mapped out what to write to gain the desired results of what the workshop wanted. Pseudo code also helps break down the method to easier and manageable portions so that the pathway is easy to translate into the C language. In this situation, it would have been useful to do pseudo coding to break the loops into its different portions so that the loop is cleaner and would have been easier to understand how to write.
+
+The three iteration constructs are "while", "do while" and "for". The first iteration I have used in this program is "for" which I have used so that I would have a finite amount of iterations that I can control so that I would have the desired results for the range I have put. The second iteration I have used in this program is "while" because it allows me to do an infinite amount of iterations until the desired input has been achieved such that the value is within 40 to -40 and the high temperature is higher than the low temperature. 
+
+When testing the solution, I placed a dummy printf line to show me the input of the user so that I can see how that input is stored in its value. As I continued with few lines, I would build the program and see if there are any errors and the dummy printf line is valid so I could fix the problem before it escalates and is harder to fix as of result. I would also input multiple values that are outside the range of the desired range to see how the program would react to the input so I can rewrite the portion so that the program would respond correctly to the undesired inputs. Then I would see if there are any logical errors in the code so that there were not any endless loops that cannot be exited. Doing these testing and debugging helps make the code to be user-proof and be properly used for its intended function.
+W

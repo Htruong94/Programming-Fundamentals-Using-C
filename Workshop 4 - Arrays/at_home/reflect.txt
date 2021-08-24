@@ -1,0 +1,15 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Workshop:       4 (at-home) Reflection
+//==============================================
+
+In this workshop, I have learnt how to properly utilize and declare an array by storing user inputs into sections of an array using a loop that iterates as much time that the user requires within range and having the input stored in each iteration. I have also learnt how to call certain portions of the array through loop iterations and be able to print the value to the user in a table format. Finally, I have learnt how to manipulate the values in an array to perform mathematical tasks while still keep the values in the array the same. 
+
+What is good about using arrays is that you can group like variables into one variable to reduce the number of variables used in the code significantly. It also allows you to store information in loops while still keeping old data in-tact on a different element. An alternative for an array is to have many variables that stores the user input and have the many if statements within a loop that is dedicated for each variable which would function the same as an array. 
+
+Parallel arrays in this workshop was used to collect data with 2 data points of different uses in the same iteration and store them to their according arrays. The good thing about this method is that you can match the like elements with their shared iteration so that you can have the data sorted as such. The downside to this method though is that you are required to have 2 different arrays to store the data and they require the same array size which using many arrays can cause problems as it has to allocate memory by the multiple of the size of the arrays. 
+
+It is best to initialize iterator variables to the value of zero as these variables has no value to the system. As these values have no value, there can be problems that can arise as it may skip the loop as it gives the iterator a magic number. With this magic number, it may or may not satisfy the requirements of loop so there is a chance that the variable may not be able to perform the iterations. By initializing the iterator variable to zero, we can avoid this problem so that the iterator variable can perform is tasks without any error.
