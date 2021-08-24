@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Workshop:       2 (at-home)
+//==============================================
+
+What i learned from this workshop is how to take the input of the user and store it into a variable. With this variable, I learned how to manipulate the value to show the user its breakdown to the desire results, such as the money value broken down to the different coin quantities. I also learned how to cast variables of different arithmetic types so that they would work properly in equations with different typings. 
+
+It is the best practice to convert floating-point values to integers when performing arithmetic operations as this would keep the equation from having multiple arithmetic typings. Using floating-point value also contains truncation on the last digit so converting the floating-point to an integer would allow you to control how much digit of the floating-point you want to use and discard the truncation, thus, obtaining a more accurate value in your range. It is also easier to read integer values rather than floating-points as very small numbers are hard to read so integers can be used as a multiple of 10^x. This would make arithmetic operations to be cleaner to the user while still being accurate to the degree that satisfies the need of the situation.
+
+The best practice of using modulus operator rather than division and subtraction to find a remainder is because it condenses two equations into one. Having 1 short and condense line of code that does the same function as using the division and subtraction allows for legibility and produce less mistakes from multiple lines. The purpose of integer division is to discard the remainder which is counter productive in obtaining the remainder as you have to then take the original value and subtract it with the resulting integer. Thus, using modulus operator rather than division subtraction method is more legible and is more productive.

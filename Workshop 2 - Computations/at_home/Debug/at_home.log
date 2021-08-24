@@ -1,0 +1,12 @@
+﻿  cashRegister.c
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(29,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(30,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(36,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(37,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(42,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(43,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(49,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(50,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(56,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\cashRegister.c(57,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  at_home.vcxproj -> C:\Users\HungD\Desktop\School\IPC144\WS02\at_home\Debug\at_home.exe

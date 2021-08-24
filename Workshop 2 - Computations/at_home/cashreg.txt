@@ -1,0 +1,51 @@
+//==============================================
+// Name:           Hung Truong
+// Student Number: 147779193
+// Email:          htruong19@myseneca.ca
+// Section:        NPP
+// Workshop:       2 (at-home)
+//==============================================
+
+#define _CRT_SECURE_NO_WARNINGS
+
+// Paste your in-lab code below and upgrade it to the at-home specifications
+#include<stdio.h>
+
+int main(void)
+{
+	double money, balance; //balance represents the money left after taking in account of loonies and then quarters
+	double GST;
+	int Loonies, Quarters, dime, nickel, penny;
+
+	printf("Please enter the amount to be paid: $");
+	scanf_s("%lf", &money); //user input on how much money is needed to be paid
+
+	GST=money*.13+0.005; //calculates the amount of GST associated with the amount the user inputs while rounding up the value due to truncated in C
+	money += GST; //calculates the amount of money owed with GST
+
+	printf("GST: %.2lf\n", GST);
+	printf("Balance owing: $%.2lf\n", money);
+
+	Loonies = money; //converting money [double variable] into an int variable while keeping money variable
+	balance = money - Loonies; //obtain the cent balance after taking out the dollar amount
+	
+	Quarters = balance / 0.25;
+	printf("Loonies required: %d, balance owing $%.2lf\n", Loonies, balance);
+	
+	balance -= ((double)Quarters * 0.25); //casting int variable quarters into a double
+	printf("Quarters required: %d, balance owing $%.2lf\n", Quarters, balance);
+	
+	dime = balance / 0.1;
+	balance -= ((double)dime*0.1); 
+	printf("Dime required: %d, balance owing $%.2lf\n", dime, balance);
+	
+	nickel = balance / 0.05;
+	balance -= ((double)nickel * 0.05);
+	printf("Nickel required: %d, balance owing $%.2lf\n", nickel, balance);
+
+	penny = balance / 0.01;
+	balance -= ((double)penny * 0.01);
+	printf("Penny required: %d, balance owing $%.2lf\n", penny, balance);
+
+	return 0;
+}
